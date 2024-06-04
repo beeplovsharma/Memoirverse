@@ -22,7 +22,7 @@ function Card() {
           }}
           
           whileTap={{
-            scale:1.1
+            scale:1.04
           }}
           key={index}
           className="bg-[#eff1f0] w-[250px] p-2 m-2 rounded-xl flex flex-col gap-2 justify-center items-center shadow-md"
